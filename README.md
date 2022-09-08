@@ -1,1 +1,5 @@
-# patika-html-odev3-cikolatali-kup-tarifi
+# Çikolatali Küp Tarifi
+
+ödevin ekran görüntüsü:
+
+![ekran görüntüsü](/img.png)
